@@ -3,7 +3,6 @@
 [![Made with Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)](https://opencv.org/)
-[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
 ---
 
@@ -28,8 +27,8 @@ The **Face Recognition-Based Attendance System** is a smart and efficient soluti
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/facerec-attendance.git
-cd facerec-attendance
+git clone https://github.com/npanthi718/Face_Recognition_Attendance.git
+
 ```
 
 ### 2. Install Dependencies
@@ -68,19 +67,19 @@ python attendance.py
 
 ### 🔹 User Interface
 
-![UI Screenshot](path_to_your_image)
+![UI Screenshot](https://github.com/npanthi718/Face_Recognition_Attendance/blob/main/Project%20Snap/user_interface.PNG)
 
 ### 🔹 Face Capture Process
 
-![Face Capture](path_to_your_image)
+![Face Capture](https://github.com/npanthi718/Face_Recognition_Attendance/blob/main/Project%20Snap/Face_Capture%20Process.PNG)
 
 ### 🔹 Attendance Marking
 
-![Attendance Marking](path_to_your_image)
+![Attendance Marking](https://github.com/npanthi718/Face_Recognition_Attendance/blob/main/Project%20Snap/Attendance%20Marking.PNG)
 
 ### 🔹 Attendance in Tabular Format
 
-![Tabular Attendance](path_to_your_image)
+![Tabular Attendance](https://github.com/npanthi718/Face_Recognition_Attendance/blob/main/Project%20Snap/Attendance%20in%20Tabular%20Format.PNG)
 
 ---
 
@@ -97,8 +96,6 @@ python attendance.py
 - **Python 3.9**
 - **OpenCV 4.x**
 - **Face Recognition Library**
-- **Flask** (Optional for Web UI)
-- **Pandas** (For data management)
 
 ---
 
@@ -110,7 +107,7 @@ Feel free to open issues or submit pull requests to contribute to this project. 
 
 ## 🤝 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/npanthi718)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sushilpanthi/)
 
 Stay awesome! 🚀✨
